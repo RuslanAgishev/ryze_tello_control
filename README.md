@@ -22,9 +22,9 @@ Windows:
 5. python Tello3.py
 6. start flying using commands from the Tello SDK 2.0 User Guide:
 	(example)
-	takeoff
-	up 100
-	down 50
-	left 100
-	right 100
-	land
+	* takeoff
+	* up 100
+	* down 50
+	* left 100
+	* right 100
+	* land
