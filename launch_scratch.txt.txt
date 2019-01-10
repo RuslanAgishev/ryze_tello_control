@@ -1,0 +1,14 @@
+connect to Tello via Wi-Fi
+
+windows + R
+cmd
+
+cd THIS_FOLDER
+node Tello.js
+
+launch Scratch
+Shift + File->Import experimental HTTP extension
+choose Tello.s2e
+File -> Open -> keyboardcontrol
+
+press "t" for takeoff

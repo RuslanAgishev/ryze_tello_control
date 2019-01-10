@@ -1,0 +1,16 @@
+connect to Tello via Wi-Fi
+
+launch Packet Sender
+Send 'command' to drone
+Send 'battery?' to drone
+
+run Tello3.py
+
+start flying using commands from the Tello SDK 2.0 User Guide:
+(example)
+takeoff
+up 100
+down 50
+left 100
+right 100
+land
